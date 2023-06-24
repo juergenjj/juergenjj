@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Juergen Villasmil</h1>
 <h3 align="center">Un ingeniero en informática apasionado por el desarrollo backend</h3>
 
-- Además, en el frontend Utilizo (HTML, CSS, JavaScript y Bootstrap)
+- Además, en el frontend Utilizo **HTML, CSS, JavaScript, y Bootstrap** 
 
 - mi portfolio visual esta en [https://portfolio-1-flax-seven.vercel.app/](https://portfolio-1-flax-seven.vercel.app/)
 
