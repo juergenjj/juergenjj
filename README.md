@@ -3,11 +3,13 @@
 
 - Además, en el frontend Utilizo **HTML, CSS, JavaScript, y Bootstrap** 
 
-- mi portfolio visual esta en [https://portfolio-1-flax-seven.vercel.app/](https://portfolio-1-flax-seven.vercel.app/)
+- Mi portfolio visual esta en [https://portfolio-1-flax-seven.vercel.app/](https://portfolio-1-flax-seven.vercel.app/)
+
+- Mi portfolio Backend esta Documentado con Swagger y se encuentra  en  [[https://portfolio-1-flax-seven.vercel.app/](https://portfolio-1-flax-seven.vercel.app/](https://jwt-swagger-crud-production.up.railway.app/swagger-ui/index.html)) 
 
 - Tengo experiencia en **Java, SpringBoot y MySQL**
 
-- puedes escribirme a **juergenvillasmil@gmail.com**
+- Puedes escribirme a **juergenvillasmil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
