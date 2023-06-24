@@ -3,7 +3,8 @@
 
 - Además, en el frontend Utilizo **HTML, CSS, JavaScript, y Bootstrap** 
 
-- Mi portfolio visual esta en [https://portfolio-1-flax-seven.vercel.app/](https://portfolio-1-flax-seven.vercel.app/)
+- Mi portfolio visual esta en [https://portfolio-1-git-main-juergenjj.vercel.app/](https://portfolio-1-git-main-juergenjj.vercel.app/)
+
 
 - Mi portfolio Backend esta Documentado con Swagger y se encuentra  en [https://jwt-swagger-crud-production.up.railway.app/](https://jwt-swagger-crud-production.up.railway.app/)
  
